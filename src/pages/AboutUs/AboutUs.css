@@ -1,0 +1,75 @@
+*
+{
+	box-sizing: border-box;
+}
+
+.small_border_about_us_page
+{
+	padding-left: 25px;
+	padding-right: 25px;
+	margin: auto;
+	max-width: 1080px;
+}
+
+.row_about_us_page
+{
+	align-items: center;
+	flex-wrap: wrap;
+	display: flex;
+	justify-content: space-around;
+    margin-bottom: 10%;
+}
+
+.about_us_column
+{
+	min-width: 300px;
+	flex-basis: 50%;
+}
+
+.about_us_column h2
+{
+	/* margin: 25px 0; */
+	/* line-height: 60px; */
+	font-size: 25px;
+}
+
+.about_us_column img
+{
+	padding: 50px 0;
+	max-width: 100%;
+}
+
+.about_us_detail .about_us_column
+{
+	padding: 20px;
+}
+
+.item_detail h4
+{
+	margin: 20px 0;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.about_us_detail .about_us_column img
+{
+	padding: 0;
+}
+
+.about_us_box
+{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border: 1px solid #e5e6e8; 
+	margin: 6% auto;
+	width: 60%;
+	height: 300px;
+	position: relative;
+	padding: 1%;
+	overflow: hidden;
+	background: #fff;
+}
+
+.about_us
+{
+	background-color: #f5f5f6;
+}

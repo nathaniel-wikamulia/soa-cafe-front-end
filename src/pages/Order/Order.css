@@ -1,0 +1,52 @@
+.button_order
+{
+	/* width: 250px; */
+	padding: 8px 30px;
+	margin: 30px ;
+	display: inline-block;
+	border-radius: 10px;
+	background: #252525;
+	color: #ffffff;
+	transition: background 0.5s;
+	text-decoration: none;
+}
+
+.goto_order:hover
+{
+	background: #666666;
+}
+
+.button_position
+{
+	margin-top: -2%;
+	text-align: center;
+}
+
+.searchtextbox
+{
+	width: 250px;
+	padding: 10px 0;
+	margin-right: 10%;
+	margin: 5px 0;
+	border-radius: 7px;
+	background: transparent;
+	border: 1px solid #999999;
+}
+
+.order_button_position
+{
+	margin-top: -5%;
+}
+
+.order_container
+{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border: 1px solid #e5e6e8; 
+	margin: 6% auto;
+	width: 23%;
+	height: 215px;
+	position: relative;
+	padding: 1%;
+	overflow: hidden;
+	background: #fff;
+}

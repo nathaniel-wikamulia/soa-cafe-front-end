@@ -1,0 +1,39 @@
+.header{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+}
+
+.header_logo{
+    width: 70px;
+    object-fit: contain;
+    margin: 0 20px;
+    /* margin-top: 0px; */
+}
+
+.header_optionLineOne{
+    font-size: 20px;
+    /* font-weight: 800; */
+}
+
+.header_nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header_option{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #333;
+}
+
+.header_option:hover{
+    text-decoration: underline;
+}

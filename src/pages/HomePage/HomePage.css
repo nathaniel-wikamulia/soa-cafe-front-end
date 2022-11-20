@@ -1,0 +1,29 @@
+.goto_order
+{
+	padding: 8px 30px;
+	margin: 30px ;
+	display: inline-block;
+	border-radius: 10px;
+	background: #252525;
+	color: #ffffff;
+	transition: background 0.5s;
+	text-decoration: none;
+	margin-bottom: 5%;
+}
+
+.goto_order:hover
+{
+	background: #f1f1f1;
+}
+
+.button_position
+{
+	margin-top: -2%;
+	text-align: center;
+}
+
+.link_style
+{
+	color:'white';
+	text-decoration: none;
+}

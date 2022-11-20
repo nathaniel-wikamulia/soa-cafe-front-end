@@ -1,0 +1,44 @@
+.footer
+{
+	padding: 60px 0 20px;
+	font-size: 14px;
+	color: #8a8a8a;
+	background: #000000;
+}
+
+.footer_column
+{
+	margin-bottom: 3%;
+	min-width: 250px;
+	text-align: center;
+	flex: 1;
+}
+
+.footer_column img
+{
+	margin-bottom: 1%;
+	width: 7%;
+	
+}
+
+.footer p
+{
+	/* margin-bottom: 20px; */
+	color: #8a8a8a;
+}
+
+.medium_border
+{
+	padding-left: 25px;
+	padding-right: 25px;
+	margin: auto;
+	max-width: 1300px;
+}
+
+.row
+{
+	align-items: center;
+	flex-wrap: wrap;
+	display: flex;
+	justify-content: space-around;
+}
