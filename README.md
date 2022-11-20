@@ -5,7 +5,9 @@ Soa Cafe is a simple website mock-up for a cafe business. This website has sever
   3. View the user's personal data (does not include the process of logging in and editing data).
   4. See some general information about the Soa Cafe.
 
+
 This website is built using React Hooks, HTML, and CSS. The data displayed on this website is still hard coded because this website does not have a back-end and a database, but the process for API calls to the back-end section has been made.
+
 
 The following is the process that needs to be done to run the code in this repository:
   1. Download this repository.
