@@ -1,4 +1,4 @@
-#Soa Cafe Front-End
+# Soa Cafe Front-End
 
 Soa Cafe is a simple website mock-up for a cafe business. This website has several features:
 1. Display the cafe's menu.
