@@ -10,7 +10,7 @@ This website is built using React Hooks, HTML, and CSS. The data displayed on th
 
 The following is the process that needs to be done to run the code in this repository:
 1. Download the code.
-2. Enter the "soa-cafe-front-end" directory.
+2. Enter the "soa-cafe-front-end-main" directory.
 3. Open a terminal.
 4. Type "npm i" in the terminal, then press the "Enter" key.
 5. Wait until the package installation is complete.
