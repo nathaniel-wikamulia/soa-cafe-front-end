@@ -46,12 +46,14 @@ function AboutUs() {
 
                             <div className="about_us_column">
                                 <h2>Soa Cafe</h2>
-                                <p>{aboutUsDescription}</p>
+                                {/* <p>{aboutUsDescription}</p> */}
+                                <p>Soa Cafe is a retro-themed cafe in the Jakarta that was founded in 2010. Soa Cafe was founded with the hope of becoming a place for its customers to relax while eating a variety of delicious food and beverages.</p>
                                 <br></br>
                                 <div style={{ marginTop: "3%", marginBottom: "" }}>
                                     <span ><b>Contact us:</b>&emsp;</span>
                                     <br></br>
-                                    <span>{phoneNumber}</span>
+                                    {/* <span>{phoneNumber}</span> */}
+                                    <span>0813-4567-8910</span>
                                 </div>
                             </div>
                         </div>

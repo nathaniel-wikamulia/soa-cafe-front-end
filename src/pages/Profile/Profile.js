@@ -44,15 +44,19 @@ function Profile() {
                             </div>
 
                             <div className="profile_column">
-                                <h2>{customerName}</h2>
+                                {/* <h2>{customerName}</h2> */}
+                                <h2>John Doe</h2>
                                 <div style={{ marginTop: "5%", marginBottom: "3%" }}>
-                                    <span ><b>Email address:&emsp;&emsp;&ensp;</b></span> <span>{emailAddress}</span>
+                                    {/* <span ><b>Email address:&emsp;&emsp;&ensp;</b></span> <span>{emailAddress}</span> */}
+                                    <span ><b>Email address:&emsp;&emsp;&ensp;</b></span> <span>johndoe@email.com</span>
                                 </div>
                                 <div style={{ marginTop: "3%", marginBottom: "3%" }}>
-                                    <span ><b>Phone number:&emsp;&nbsp;&ensp;</b></span> <span>{phoneNumber}</span>
+                                    {/* <span ><b>Phone number:&emsp;&nbsp;&ensp;</b></span> <span>{phoneNumber}</span> */}
+                                    <span ><b>Phone number:&emsp;&nbsp;&ensp;</b></span> <span>0812-3456-7890</span>
                                 </div>
                                 <div style={{ marginTop: "3%", marginBottom: "" }}>
-                                    <span ><b>Delivery address:&emsp;</b></span> <span>{deliveryAddress}</span>
+                                    {/* <span ><b>Delivery address:&emsp;</b></span> <span>{deliveryAddress}</span> */}
+                                    <span ><b>Delivery address:&emsp;</b></span> <span>Jl. Street Name No. 12</span>
                                 </div>
                             </div>
                         </div>
